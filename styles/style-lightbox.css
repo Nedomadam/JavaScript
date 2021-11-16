@@ -1,7 +1,3 @@
-body{
-    
-}
-
 .gridbox{
     display: grid;
     grid-row: 5;
@@ -52,4 +48,9 @@ div > div:hover {
     grid-row-start: 2;
     grid-row-end: 5;
     background-color: lightskyblue;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
 }
